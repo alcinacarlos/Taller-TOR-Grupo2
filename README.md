@@ -25,6 +25,11 @@
     * El botón de "Nueva Identidad" vs. "Nuevo Circuito".
     * Niveles de Seguridad (Estándar, Seguro, El más seguro) y qué deshabilitan (JavaScript).
 
+Material de apoyo:
+
+- Guía de instalación multi-sistema: [instalacion/README.md](instalacion/README.md)
+- Guía de puentes (bridges): [bridges/README.md](bridges/README.md)
+
 ## 4. OpSec: Reglas de Oro para el Anonimato
 > **Nota crucial:** Usar Tor no te hace invisible si tu comportamiento te delata.
 
