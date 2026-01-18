@@ -1,8 +1,6 @@
-# 🔍 Pruebas FÁCILES: ¿Tu navegador te delata? (Sin TOR vs Con TOR)
-
 **Imagina esto**: Sin protección, sitios ven tu IP (tu "casa digital"), idioma español y hasta tu tarjeta gráfica. TOR te hace "invisible" como los demás usuarios TOR. ¡Vamos a comprobarlo fácil!
 
-## 🎯 PASO A PASO (5 minutos cada prueba)
+## 🎯 PASO A PASO
 
 ### 1️⃣ **PREPARA todo**
 - **Sin TOR**: Abre Chrome/Firefox normal 
