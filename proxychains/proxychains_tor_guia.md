@@ -5,10 +5,7 @@
 2. [¿Qué es Proxychains + Tor?](#qué-es-proxychains--tor)
 3. [Instalación y Configuración](#instalación-y-configuración)
 4. [Casos de Uso Profesionales](#casos-de-uso-profesionales)
-5. [Demo para Taller](#demo-para-taller)
-6. [VPN vs Proxychains + Tor](#vpn-vs-proxychains--tor)
-7. [Limitaciones](#limitaciones)
-8. [Ética Legal](#ética-legal)
+
 
 ---
 
