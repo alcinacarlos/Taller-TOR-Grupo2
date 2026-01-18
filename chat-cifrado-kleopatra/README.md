@@ -1,5 +1,8 @@
 # Chat cifrado con clave asimétrica (Kleopatra + chat web simple)
 
+https://chat.alcina.es/
+
+
 En esta práctica simulamos un **intercambio de mensajes cifrados** usando criptografía asimétrica (OpenPGP) con **Kleopatra** y un **chat web simple** como canal de transporte.
 
 La idea es:
@@ -23,16 +26,6 @@ La idea es:
 ### Paso 1 — Abrimos el chat web (canal de envío)
 
 Usamos el chat web únicamente para **pegar y enviar texto** (no cifra nada por sí mismo).
-
-CAMBIAR IP CAMBIAR IP
-CAMBIAR IP
-CAMBIAR IP
-CAMBIAR IP
-CAMBIAR IP
-CAMBIAR IP
-CAMBIAR IP
-CAMBIAR IP
-
 
 ![alt text](../assets/12.png)
 
