@@ -220,8 +220,7 @@ Usos:
 
 ## Evaluación
 
-* **25 preguntas** en formulario web (Página Luiskas Kiwi)
-
+* **25 preguntas** en formulario web
 ---
 
 ## Orden del Taller
