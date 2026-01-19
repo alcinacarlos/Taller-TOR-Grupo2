@@ -1,5 +1,9 @@
 # Chat cifrado con clave asimétrica (Kleopatra + chat web simple)
 
+**Enlace desde Tor:**
+http://gb6gy65kwhpkrznxv4g7zey6ruatnwioaifyyyolqzn76hetsj4pf7ad.onion/
+
+**Enlace desde cualquier otro navegador:**
 https://chat.alcina.es/
 
 
