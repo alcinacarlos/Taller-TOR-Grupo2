@@ -81,7 +81,7 @@ sudo ss -tlnp | grep 9050      # Verificar puerto abierto
 tcp  0  0 127.0.0.1:9050  0.0.0.0:*  LISTEN
 ```
 
-### Paso 3: Configurar Proxychains (VERSIÓN CORRECTA)
+### Paso 3: Configurar Proxychains 
 
 ```bash
 sudo nano /etc/proxychains.conf
