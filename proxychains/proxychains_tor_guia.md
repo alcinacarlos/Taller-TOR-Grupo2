@@ -171,5 +171,3 @@ proxychains nuclei -u urls.txt
 ```
 
 ---
-
-*Enero 2026 - Cadiz, España*
